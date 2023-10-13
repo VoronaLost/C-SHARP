@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Vorona\\.nuget\\packages\\": {}
+    "C:\\Users\\alex\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\study\\C-SHARP\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+      "projectUniqueName": "D:\\study\\C-SHARP\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
       "projectName": "Example001_HelloConsole",
-      "projectPath": "E:\\study\\C-SHARP\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
-      "packagesPath": "C:\\Users\\Vorona\\.nuget\\packages\\",
-      "outputPath": "E:\\study\\C-SHARP\\Examples\\Example001_HelloConsole\\obj\\",
+      "projectPath": "D:\\study\\C-SHARP\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+      "packagesPath": "C:\\Users\\alex\\.nuget\\packages\\",
+      "outputPath": "D:\\study\\C-SHARP\\Examples\\Example001_HelloConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Vorona\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\alex\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
